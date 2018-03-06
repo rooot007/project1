@@ -4,9 +4,9 @@ from collections import OrderedDict
 
 d = OrderedDict([
     ('pen', 3),
-    ('pinapple' , 2),
+    ('pinapple', 2),
     ('mango', 4),
 ])
 print(d.keys())
 loop = str("location")
-print(loop)
+print(d.values())
